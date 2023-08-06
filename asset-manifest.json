@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-study-notion-app/static/css/main.e3728d5a.css",
+    "main.js": "/react-study-notion-app/static/js/main.07aadee1.js",
+    "static/media/signup.png": "/react-study-notion-app/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/react-study-notion-app/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/react-study-notion-app/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/react-study-notion-app/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/react-study-notion-app/index.html",
+    "main.e3728d5a.css.map": "/react-study-notion-app/static/css/main.e3728d5a.css.map",
+    "main.07aadee1.js.map": "/react-study-notion-app/static/js/main.07aadee1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3728d5a.css",
+    "static/js/main.07aadee1.js"
+  ]
+}
